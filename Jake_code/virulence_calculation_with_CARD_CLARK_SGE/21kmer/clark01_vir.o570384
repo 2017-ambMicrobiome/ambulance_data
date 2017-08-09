@@ -1,0 +1,939 @@
+
+clark01.sh started on ambulance samples at Thu Jun 16 09:56:32 EDT 2016.
+Syncing from:  
+To: /tmp/570384.1.standard.q/clark01_work
+
+sending incremental file list
+AE0003_pairs_R1.fastq.gz
+AE0003_pairs_R2.fastq.gz
+AE0013_pairs_R1.fastq.gz
+AE0013_pairs_R2.fastq.gz
+AE0023_pairs_R1.fastq.gz
+AE0023_pairs_R2.fastq.gz
+AE0053_pairs_R1.fastq.gz
+AE0053_pairs_R2.fastq.gz
+AE0103_pairs_R1.fastq.gz
+AE0103_pairs_R2.fastq.gz
+AE0113_pairs_R1.fastq.gz
+AE0113_pairs_R2.fastq.gz
+AE0133_pairs_R1.fastq.gz
+AE0133_pairs_R2.fastq.gz
+AE0233_pairs_R1.fastq.gz
+AE0233_pairs_R2.fastq.gz
+AS1343_pairs_R1.fastq.gz
+AS1343_pairs_R2.fastq.gz
+AS1383_pairs_R1.fastq.gz
+AS1383_pairs_R2.fastq.gz
+AS1393_pairs_R1.fastq.gz
+AS1393_pairs_R2.fastq.gz
+AS1403_pairs_R1.fastq.gz
+AS1403_pairs_R2.fastq.gz
+AS1413_pairs_R1.fastq.gz
+AS1413_pairs_R2.fastq.gz
+AS1423_pairs_R1.fastq.gz
+AS1423_pairs_R2.fastq.gz
+AS1433_pairs_R1.fastq.gz
+AS1433_pairs_R2.fastq.gz
+AS1456_pairs_R1.fastq.gz
+AS1456_pairs_R2.fastq.gz
+AS1463_pairs_R1.fastq.gz
+AS1463_pairs_R2.fastq.gz
+AS1473_pairs_R1.fastq.gz
+AS1473_pairs_R2.fastq.gz
+AS1483_pairs_R1.fastq.gz
+AS1483_pairs_R2.fastq.gz
+AS1484_pairs_R1.fastq.gz
+AS1484_pairs_R2.fastq.gz
+AS1485_pairs_R1.fastq.gz
+AS1485_pairs_R2.fastq.gz
+AS1487_pairs_R1.fastq.gz
+AS1487_pairs_R2.fastq.gz
+AS1492_pairs_R1.fastq.gz
+AS1492_pairs_R2.fastq.gz
+AS1493_pairs_R1.fastq.gz
+AS1493_pairs_R2.fastq.gz
+AS1496_pairs_R1.fastq.gz
+AS1496_pairs_R2.fastq.gz
+AS1502_pairs_R1.fastq.gz
+AS1502_pairs_R2.fastq.gz
+AS1503_pairs_R1.fastq.gz
+AS1503_pairs_R2.fastq.gz
+AS1504_pairs_R1.fastq.gz
+AS1504_pairs_R2.fastq.gz
+AS1509_pairs_R1.fastq.gz
+AS1509_pairs_R2.fastq.gz
+AS1510_pairs_R1.fastq.gz
+AS1510_pairs_R2.fastq.gz
+AS1513_pairs_R1.fastq.gz
+AS1513_pairs_R2.fastq.gz
+AS1517_pairs_R1.fastq.gz
+AS1517_pairs_R2.fastq.gz
+AS1518_pairs_R1.fastq.gz
+AS1518_pairs_R2.fastq.gz
+AS1519_pairs_R1.fastq.gz
+AS1519_pairs_R2.fastq.gz
+AS1954_pairs_R1.fastq.gz
+AS1954_pairs_R2.fastq.gz
+AS1955_pairs_R1.fastq.gz
+AS1955_pairs_R2.fastq.gz
+AS1956_pairs_R1.fastq.gz
+AS1956_pairs_R2.fastq.gz
+AS1957_pairs_R1.fastq.gz
+AS1957_pairs_R2.fastq.gz
+AS1958_pairs_R1.fastq.gz
+AS1958_pairs_R2.fastq.gz
+AS1963_pairs_R1.fastq.gz
+AS1963_pairs_R2.fastq.gz
+AS1965_pairs_R1.fastq.gz
+AS1965_pairs_R2.fastq.gz
+AS1966_pairs_R1.fastq.gz
+AS1966_pairs_R2.fastq.gz
+AS1967_pairs_R1.fastq.gz
+AS1967_pairs_R2.fastq.gz
+AS1969_pairs_R1.fastq.gz
+AS1969_pairs_R2.fastq.gz
+AW0253_pairs_R1.fastq.gz
+AW0253_pairs_R2.fastq.gz
+AW0254_pairs_R1.fastq.gz
+AW0254_pairs_R2.fastq.gz
+AW0258_pairs_R1.fastq.gz
+AW0258_pairs_R2.fastq.gz
+AW0262_pairs_R1.fastq.gz
+AW0262_pairs_R2.fastq.gz
+AW0263_pairs_R1.fastq.gz
+AW0263_pairs_R2.fastq.gz
+AW0264_pairs_R1.fastq.gz
+AW0264_pairs_R2.fastq.gz
+AW0265_pairs_R1.fastq.gz
+AW0265_pairs_R2.fastq.gz
+AW0267_pairs_R1.fastq.gz
+AW0267_pairs_R2.fastq.gz
+AW0268_pairs_R1.fastq.gz
+AW0268_pairs_R2.fastq.gz
+AW0269_pairs_R1.fastq.gz
+AW0269_pairs_R2.fastq.gz
+AW0273_pairs_R1.fastq.gz
+AW0273_pairs_R2.fastq.gz
+AW0277_pairs_R1.fastq.gz
+AW0277_pairs_R2.fastq.gz
+AW0283_pairs_R1.fastq.gz
+AW0283_pairs_R2.fastq.gz
+AW0293_pairs_R1.fastq.gz
+AW0293_pairs_R2.fastq.gz
+AW0301_pairs_R1.fastq.gz
+AW0301_pairs_R2.fastq.gz
+AW0302_pairs_R1.fastq.gz
+AW0302_pairs_R2.fastq.gz
+AW0303_pairs_R1.fastq.gz
+AW0303_pairs_R2.fastq.gz
+AW0306_pairs_R1.fastq.gz
+AW0306_pairs_R2.fastq.gz
+AW0307_pairs_R1.fastq.gz
+AW0307_pairs_R2.fastq.gz
+AW0308_pairs_R1.fastq.gz
+AW0308_pairs_R2.fastq.gz
+AW0313_pairs_R1.fastq.gz
+AW0313_pairs_R2.fastq.gz
+AW0323_pairs_R1.fastq.gz
+AW0323_pairs_R2.fastq.gz
+AW0333_pairs_R1.fastq.gz
+AW0333_pairs_R2.fastq.gz
+AW0343_pairs_R1.fastq.gz
+AW0343_pairs_R2.fastq.gz
+AW0353_pairs_R1.fastq.gz
+AW0353_pairs_R2.fastq.gz
+AW0363_pairs_R1.fastq.gz
+AW0363_pairs_R2.fastq.gz
+AW0371_pairs_R1.fastq.gz
+AW0371_pairs_R2.fastq.gz
+AW0372_pairs_R1.fastq.gz
+AW0372_pairs_R2.fastq.gz
+AW0373_pairs_R1.fastq.gz
+AW0373_pairs_R2.fastq.gz
+AW0375_pairs_R1.fastq.gz
+AW0375_pairs_R2.fastq.gz
+AW0377_pairs_R1.fastq.gz
+AW0377_pairs_R2.fastq.gz
+AW0378_pairs_R1.fastq.gz
+AW0378_pairs_R2.fastq.gz
+AW0383_pairs_R1.fastq.gz
+AW0383_pairs_R2.fastq.gz
+AW0401_pairs_R1.fastq.gz
+AW0401_pairs_R2.fastq.gz
+AW0402_pairs_R1.fastq.gz
+AW0402_pairs_R2.fastq.gz
+AW0404_pairs_R1.fastq.gz
+AW0404_pairs_R2.fastq.gz
+AW0405_pairs_R1.fastq.gz
+AW0405_pairs_R2.fastq.gz
+AW0406_pairs_R1.fastq.gz
+AW0406_pairs_R2.fastq.gz
+AW0407_pairs_R1.fastq.gz
+AW0407_pairs_R2.fastq.gz
+AW0408_pairs_R1.fastq.gz
+AW0408_pairs_R2.fastq.gz
+AW0409_pairs_R1.fastq.gz
+AW0409_pairs_R2.fastq.gz
+AW0411_pairs_R1.fastq.gz
+AW0411_pairs_R2.fastq.gz
+AW0412_pairs_R1.fastq.gz
+AW0412_pairs_R2.fastq.gz
+AW0413_pairs_R1.fastq.gz
+AW0413_pairs_R2.fastq.gz
+AW0414_pairs_R1.fastq.gz
+AW0414_pairs_R2.fastq.gz
+AW0415_pairs_R1.fastq.gz
+AW0415_pairs_R2.fastq.gz
+AW0416_pairs_R1.fastq.gz
+AW0416_pairs_R2.fastq.gz
+AW0417_pairs_R1.fastq.gz
+AW0417_pairs_R2.fastq.gz
+AW0418_pairs_R1.fastq.gz
+AW0418_pairs_R2.fastq.gz
+AW0419_pairs_R1.fastq.gz
+AW0419_pairs_R2.fastq.gz
+AW0421_pairs_R1.fastq.gz
+AW0421_pairs_R2.fastq.gz
+AW0422_pairs_R1.fastq.gz
+AW0422_pairs_R2.fastq.gz
+AW0424_pairs_R1.fastq.gz
+AW0424_pairs_R2.fastq.gz
+AW0425_pairs_R1.fastq.gz
+AW0425_pairs_R2.fastq.gz
+AW0426_pairs_R1.fastq.gz
+AW0426_pairs_R2.fastq.gz
+AW0427_pairs_R1.fastq.gz
+AW0427_pairs_R2.fastq.gz
+
+sent 114257809169 bytes  received 3812 bytes  222942074.11 bytes/sec
+total size is 114243850368  speedup is 1.00
+sending incremental file list
+parallel
+
+sent 291704 bytes  received 31 bytes  583470.00 bytes/sec
+total size is 291579  speedup is 1.00
+
+Started to gunzip files at Thu Jun 16 10:05:18 EDT 2016.
+
+Finished gunzip files at Thu Jun 16 10:20:20 EDT 2016.
+
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Starting the creation of the database of targets specific 21-mers from input files...
+ Progress report: (1/2172)     Progress report: (2/2172)     Progress report: (3/2172)     Progress report: (4/2172)     Progress report: (5/2172)     Progress report: (6/2172)     Progress report: (7/2172)     Progress report: (8/2172)     Progress report: (9/2172)     Progress report: (10/2172)     Progress report: (11/2172)     Progress report: (12/2172)     Progress report: (13/2172)     Progress report: (14/2172)     Progress report: (15/2172)     Progress report: (16/2172)     Progress report: (17/2172)     Progress report: (18/2172)     Progress report: (19/2172)     Progress report: (20/2172)     Progress report: (21/2172)     Progress report: (22/2172)     Progress report: (23/2172)     Progress report: (24/2172)     Progress report: (25/2172)     Progress report: (26/2172)     Progress report: (27/2172)     Progress report: (28/2172)     Progress report: (29/2172)     Progress report: (30/2172)     Progress report: (31/2172)     Progress report: (32/2172)     Progress report: (33/2172)     Progress report: (34/2172)     Progress report: (35/2172)     Progress report: (36/2172)     Progress report: (37/2172)     Progress report: (38/2172)     Progress report: (39/2172)     Progress report: (40/2172)     Progress report: (41/2172)     Progress report: (42/2172)     Progress report: (43/2172)     Progress report: (44/2172)     Progress report: (45/2172)     Progress report: (46/2172)     Progress report: (47/2172)     Progress report: (48/2172)     Progress report: (49/2172)     Progress report: (50/2172)     Progress report: (51/2172)     Progress report: (52/2172)     Progress report: (53/2172)     Progress report: (54/2172)     Progress report: (55/2172)     Progress report: (56/2172)     Progress report: (57/2172)     Progress report: (58/2172)     Progress report: (59/2172)     Progress report: (60/2172)     Progress report: (61/2172)     Progress report: (62/2172)     Progress report: (63/2172)     Progress report: (64/2172)     Progress report: (65/2172)     Progress report: (66/2172)     Progress report: (67/2172)     Progress report: (68/2172)     Progress report: (69/2172)     Progress report: (70/2172)     Progress report: (71/2172)     Progress report: (72/2172)     Progress report: (73/2172)     Progress report: (74/2172)     Progress report: (75/2172)     Progress report: (76/2172)     Progress report: (77/2172)     Progress report: (78/2172)     Progress report: (79/2172)     Progress report: (80/2172)     Progress report: (81/2172)     Progress report: (82/2172)     Progress report: (83/2172)     Progress report: (84/2172)     Progress report: (85/2172)     Progress report: (86/2172)     Progress report: (87/2172)     Progress report: (88/2172)     Progress report: (89/2172)     Progress report: (90/2172)     Progress report: (91/2172)     Progress report: (92/2172)     Progress report: (93/2172)     Progress report: (94/2172)     Progress report: (95/2172)     Progress report: (96/2172)     Progress report: (97/2172)     Progress report: (98/2172)     Progress report: (99/2172)     Progress report: (100/2172)     Progress report: (101/2172)     Progress report: (102/2172)     Progress report: (103/2172)     Progress report: (104/2172)     Progress report: (105/2172)     Progress report: (106/2172)     Progress report: (107/2172)     Progress report: (108/2172)     Progress report: (109/2172)     Progress report: (110/2172)     Progress report: (111/2172)     Progress report: (112/2172)     Progress report: (113/2172)     Progress report: (114/2172)     Progress report: (115/2172)     Progress report: (116/2172)     Progress report: (117/2172)     Progress report: (118/2172)     Progress report: (119/2172)     Progress report: (120/2172)     Progress report: (121/2172)     Progress report: (122/2172)     Progress report: (123/2172)     Progress report: (124/2172)     Progress report: (125/2172)     Progress report: (126/2172)     Progress report: (127/2172)     Progress report: (128/2172)     Progress report: (129/2172)     Progress report: (130/2172)     Progress report: (131/2172)     Progress report: (132/2172)     Progress report: (133/2172)     Progress report: (134/2172)     Progress report: (135/2172)     Progress report: (136/2172)     Progress report: (137/2172)     Progress report: (138/2172)     Progress report: (139/2172)     Progress report: (140/2172)     Progress report: (141/2172)     Progress report: (142/2172)     Progress report: (143/2172)     Progress report: (144/2172)     Progress report: (145/2172)     Progress report: (146/2172)     Progress report: (147/2172)     Progress report: (148/2172)     Progress report: (149/2172)     Progress report: (150/2172)     Progress report: (151/2172)     Progress report: (152/2172)     Progress report: (153/2172)     Progress report: (154/2172)     Progress report: (155/2172)     Progress report: (156/2172)     Progress report: (157/2172)     Progress report: (158/2172)     Progress report: (159/2172)     Progress report: (160/2172)     Progress report: (161/2172)     Progress report: (162/2172)     Progress report: (163/2172)     Progress report: (164/2172)     Progress report: (165/2172)     Progress report: (166/2172)     Progress report: (167/2172)     Progress report: (168/2172)     Progress report: (169/2172)     Progress report: (170/2172)     Progress report: (171/2172)     Progress report: (172/2172)     Progress report: (173/2172)     Progress report: (174/2172)     Progress report: (175/2172)     Progress report: (176/2172)     Progress report: (177/2172)     Progress report: (178/2172)     Progress report: (179/2172)     Progress report: (180/2172)     Progress report: (181/2172)     Progress report: (182/2172)     Progress report: (183/2172)     Progress report: (184/2172)     Progress report: (185/2172)     Progress report: (186/2172)     Progress report: (187/2172)     Progress report: (188/2172)     Progress report: (189/2172)     Progress report: (190/2172)     Progress report: (191/2172)     Progress report: (192/2172)     Progress report: (193/2172)     Progress report: (194/2172)     Progress report: (195/2172)     Progress report: (196/2172)     Progress report: (197/2172)     Progress report: (198/2172)     Progress report: (199/2172)     Progress report: (200/2172)     Progress report: (201/2172)     Progress report: (202/2172)     Progress report: (203/2172)     Progress report: (204/2172)     Progress report: (205/2172)     Progress report: (206/2172)     Progress report: (207/2172)     Progress report: (208/2172)     Progress report: (209/2172)     Progress report: (210/2172)     Progress report: (211/2172)     Progress report: (212/2172)     Progress report: (213/2172)     Progress report: (214/2172)     Progress report: (215/2172)     Progress report: (216/2172)     Progress report: (217/2172)     Progress report: (218/2172)     Progress report: (219/2172)     Progress report: (220/2172)     Progress report: (221/2172)     Progress report: (222/2172)     Progress report: (223/2172)     Progress report: (224/2172)     Progress report: (225/2172)     Progress report: (226/2172)     Progress report: (227/2172)     Progress report: (228/2172)     Progress report: (229/2172)     Progress report: (230/2172)     Progress report: (231/2172)     Progress report: (232/2172)     Progress report: (233/2172)     Progress report: (234/2172)     Progress report: (235/2172)     Progress report: (236/2172)     Progress report: (237/2172)     Progress report: (238/2172)     Progress report: (239/2172)     Progress report: (240/2172)     Progress report: (241/2172)     Progress report: (242/2172)     Progress report: (243/2172)     Progress report: (244/2172)     Progress report: (245/2172)     Progress report: (246/2172)     Progress report: (247/2172)     Progress report: (248/2172)     Progress report: (249/2172)     Progress report: (250/2172)     Progress report: (251/2172)     Progress report: (252/2172)     Progress report: (253/2172)     Progress report: (254/2172)     Progress report: (255/2172)     Progress report: (256/2172)     Progress report: (257/2172)     Progress report: (258/2172)     Progress report: (259/2172)     Progress report: (260/2172)     Progress report: (261/2172)     Progress report: (262/2172)     Progress report: (263/2172)     Progress report: (264/2172)     Progress report: (265/2172)     Progress report: (266/2172)     Progress report: (267/2172)     Progress report: (268/2172)     Progress report: (269/2172)     Progress report: (270/2172)     Progress report: (271/2172)     Progress report: (272/2172)     Progress report: (273/2172)     Progress report: (274/2172)     Progress report: (275/2172)     Progress report: (276/2172)     Progress report: (277/2172)     Progress report: (278/2172)     Progress report: (279/2172)     Progress report: (280/2172)     Progress report: (281/2172)     Progress report: (282/2172)     Progress report: (283/2172)     Progress report: (284/2172)     Progress report: (285/2172)     Progress report: (286/2172)     Progress report: (287/2172)     Progress report: (288/2172)     Progress report: (289/2172)     Progress report: (290/2172)     Progress report: (291/2172)     Progress report: (292/2172)     Progress report: (293/2172)     Progress report: (294/2172)     Progress report: (295/2172)     Progress report: (296/2172)     Progress report: (297/2172)     Progress report: (298/2172)     Progress report: (299/2172)     Progress report: (300/2172)     Progress report: (301/2172)     Progress report: (302/2172)     Progress report: (303/2172)     Progress report: (304/2172)     Progress report: (305/2172)     Progress report: (306/2172)     Progress report: (307/2172)     Progress report: (308/2172)     Progress report: (309/2172)     Progress report: (310/2172)     Progress report: (311/2172)     Progress report: (312/2172)     Progress report: (313/2172)     Progress report: (314/2172)     Progress report: (315/2172)     Progress report: (316/2172)     Progress report: (317/2172)     Progress report: (318/2172)     Progress report: (319/2172)     Progress report: (320/2172)     Progress report: (321/2172)     Progress report: (322/2172)     Progress report: (323/2172)     Progress report: (324/2172)     Progress report: (325/2172)     Progress report: (326/2172)     Progress report: (327/2172)     Progress report: (328/2172)     Progress report: (329/2172)     Progress report: (330/2172)     Progress report: (331/2172)     Progress report: (332/2172)     Progress report: (333/2172)     Progress report: (334/2172)     Progress report: (335/2172)     Progress report: (336/2172)     Progress report: (337/2172)     Progress report: (338/2172)     Progress report: (339/2172)     Progress report: (340/2172)     Progress report: (341/2172)     Progress report: (342/2172)     Progress report: (343/2172)     Progress report: (344/2172)     Progress report: (345/2172)     Progress report: (346/2172)     Progress report: (347/2172)     Progress report: (348/2172)     Progress report: (349/2172)     Progress report: (350/2172)     Progress report: (351/2172)     Progress report: (352/2172)     Progress report: (353/2172)     Progress report: (354/2172)     Progress report: (355/2172)     Progress report: (356/2172)     Progress report: (357/2172)     Progress report: (358/2172)     Progress report: (359/2172)     Progress report: (360/2172)     Progress report: (361/2172)     Progress report: (362/2172)     Progress report: (363/2172)     Progress report: (364/2172)     Progress report: (365/2172)     Progress report: (366/2172)     Progress report: (367/2172)     Progress report: (368/2172)     Progress report: (369/2172)     Progress report: (370/2172)     Progress report: (371/2172)     Progress report: (372/2172)     Progress report: (373/2172)     Progress report: (374/2172)     Progress report: (375/2172)     Progress report: (376/2172)     Progress report: (377/2172)     Progress report: (378/2172)     Progress report: (379/2172)     Progress report: (380/2172)     Progress report: (381/2172)     Progress report: (382/2172)     Progress report: (383/2172)     Progress report: (384/2172)     Progress report: (385/2172)     Progress report: (386/2172)     Progress report: (387/2172)     Progress report: (388/2172)     Progress report: (389/2172)     Progress report: (390/2172)     Progress report: (391/2172)     Progress report: (392/2172)     Progress report: (393/2172)     Progress report: (394/2172)     Progress report: (395/2172)     Progress report: (396/2172)     Progress report: (397/2172)     Progress report: (398/2172)     Progress report: (399/2172)     Progress report: (400/2172)     Progress report: (401/2172)     Progress report: (402/2172)     Progress report: (403/2172)     Progress report: (404/2172)     Progress report: (405/2172)     Progress report: (406/2172)     Progress report: (407/2172)     Progress report: (408/2172)     Progress report: (409/2172)     Progress report: (410/2172)     Progress report: (411/2172)     Progress report: (412/2172)     Progress report: (413/2172)     Progress report: (414/2172)     Progress report: (415/2172)     Progress report: (416/2172)     Progress report: (417/2172)     Progress report: (418/2172)     Progress report: (419/2172)     Progress report: (420/2172)     Progress report: (421/2172)     Progress report: (422/2172)     Progress report: (423/2172)     Progress report: (424/2172)     Progress report: (425/2172)     Progress report: (426/2172)     Progress report: (427/2172)     Progress report: (428/2172)     Progress report: (429/2172)     Progress report: (430/2172)     Progress report: (431/2172)     Progress report: (432/2172)     Progress report: (433/2172)     Progress report: (434/2172)     Progress report: (435/2172)     Progress report: (436/2172)     Progress report: (437/2172)     Progress report: (438/2172)     Progress report: (439/2172)     Progress report: (440/2172)     Progress report: (441/2172)     Progress report: (442/2172)     Progress report: (443/2172)     Progress report: (444/2172)     Progress report: (445/2172)     Progress report: (446/2172)     Progress report: (447/2172)     Progress report: (448/2172)     Progress report: (449/2172)     Progress report: (450/2172)     Progress report: (451/2172)     Progress report: (452/2172)     Progress report: (453/2172)     Progress report: (454/2172)     Progress report: (455/2172)     Progress report: (456/2172)     Progress report: (457/2172)     Progress report: (458/2172)     Progress report: (459/2172)     Progress report: (460/2172)     Progress report: (461/2172)     Progress report: (462/2172)     Progress report: (463/2172)     Progress report: (464/2172)     Progress report: (465/2172)     Progress report: (466/2172)     Progress report: (467/2172)     Progress report: (468/2172)     Progress report: (469/2172)     Progress report: (470/2172)     Progress report: (471/2172)     Progress report: (472/2172)     Progress report: (473/2172)     Progress report: (474/2172)     Progress report: (475/2172)     Progress report: (476/2172)     Progress report: (477/2172)     Progress report: (478/2172)     Progress report: (479/2172)     Progress report: (480/2172)     Progress report: (481/2172)     Progress report: (482/2172)     Progress report: (483/2172)     Progress report: (484/2172)     Progress report: (485/2172)     Progress report: (486/2172)     Progress report: (487/2172)     Progress report: (488/2172)     Progress report: (489/2172)     Progress report: (490/2172)     Progress report: (491/2172)     Progress report: (492/2172)     Progress report: (493/2172)     Progress report: (494/2172)     Progress report: (495/2172)     Progress report: (496/2172)     Progress report: (497/2172)     Progress report: (498/2172)     Progress report: (499/2172)     Progress report: (500/2172)     Progress report: (501/2172)     Progress report: (502/2172)     Progress report: (503/2172)     Progress report: (504/2172)     Progress report: (505/2172)     Progress report: (506/2172)     Progress report: (507/2172)     Progress report: (508/2172)     Progress report: (509/2172)     Progress report: (510/2172)     Progress report: (511/2172)     Progress report: (512/2172)     Progress report: (513/2172)     Progress report: (514/2172)     Progress report: (515/2172)     Progress report: (516/2172)     Progress report: (517/2172)     Progress report: (518/2172)     Progress report: (519/2172)     Progress report: (520/2172)     Progress report: (521/2172)     Progress report: (522/2172)     Progress report: (523/2172)     Progress report: (524/2172)     Progress report: (525/2172)     Progress report: (526/2172)     Progress report: (527/2172)     Progress report: (528/2172)     Progress report: (529/2172)     Progress report: (530/2172)     Progress report: (531/2172)     Progress report: (532/2172)     Progress report: (533/2172)     Progress report: (534/2172)     Progress report: (535/2172)     Progress report: (536/2172)     Progress report: (537/2172)     Progress report: (538/2172)     Progress report: (539/2172)     Progress report: (540/2172)     Progress report: (541/2172)     Progress report: (542/2172)     Progress report: (543/2172)     Progress report: (544/2172)     Progress report: (545/2172)     Progress report: (546/2172)     Progress report: (547/2172)     Progress report: (548/2172)     Progress report: (549/2172)     Progress report: (550/2172)     Progress report: (551/2172)     Progress report: (552/2172)     Progress report: (553/2172)     Progress report: (554/2172)     Progress report: (555/2172)     Progress report: (556/2172)     Progress report: (557/2172)     Progress report: (558/2172)     Progress report: (559/2172)     Progress report: (560/2172)     Progress report: (561/2172)     Progress report: (562/2172)     Progress report: (563/2172)     Progress report: (564/2172)     Progress report: (565/2172)     Progress report: (566/2172)     Progress report: (567/2172)     Progress report: (568/2172)     Progress report: (569/2172)     Progress report: (570/2172)     Progress report: (571/2172)     Progress report: (572/2172)     Progress report: (573/2172)     Progress report: (574/2172)     Progress report: (575/2172)     Progress report: (576/2172)     Progress report: (577/2172)     Progress report: (578/2172)     Progress report: (579/2172)     Progress report: (580/2172)     Progress report: (581/2172)     Progress report: (582/2172)     Progress report: (583/2172)     Progress report: (584/2172)     Progress report: (585/2172)     Progress report: (586/2172)     Progress report: (587/2172)     Progress report: (588/2172)     Progress report: (589/2172)     Progress report: (590/2172)     Progress report: (591/2172)     Progress report: (592/2172)     Progress report: (593/2172)     Progress report: (594/2172)     Progress report: (595/2172)     Progress report: (596/2172)     Progress report: (597/2172)     Progress report: (598/2172)     Progress report: (599/2172)     Progress report: (600/2172)     Progress report: (601/2172)     Progress report: (602/2172)     Progress report: (603/2172)     Progress report: (604/2172)     Progress report: (605/2172)     Progress report: (606/2172)     Progress report: (607/2172)     Progress report: (608/2172)     Progress report: (609/2172)     Progress report: (610/2172)     Progress report: (611/2172)     Progress report: (612/2172)     Progress report: (613/2172)     Progress report: (614/2172)     Progress report: (615/2172)     Progress report: (616/2172)     Progress report: (617/2172)     Progress report: (618/2172)     Progress report: (619/2172)     Progress report: (620/2172)     Progress report: (621/2172)     Progress report: (622/2172)     Progress report: (623/2172)     Progress report: (624/2172)     Progress report: (625/2172)     Progress report: (626/2172)     Progress report: (627/2172)     Progress report: (628/2172)     Progress report: (629/2172)     Progress report: (630/2172)     Progress report: (631/2172)     Progress report: (632/2172)     Progress report: (633/2172)     Progress report: (634/2172)     Progress report: (635/2172)     Progress report: (636/2172)     Progress report: (637/2172)     Progress report: (638/2172)     Progress report: (639/2172)     Progress report: (640/2172)     Progress report: (641/2172)     Progress report: (642/2172)     Progress report: (643/2172)     Progress report: (644/2172)     Progress report: (645/2172)     Progress report: (646/2172)     Progress report: (647/2172)     Progress report: (648/2172)     Progress report: (649/2172)     Progress report: (650/2172)     Progress report: (651/2172)     Progress report: (652/2172)     Progress report: (653/2172)     Progress report: (654/2172)     Progress report: (655/2172)     Progress report: (656/2172)     Progress report: (657/2172)     Progress report: (658/2172)     Progress report: (659/2172)     Progress report: (660/2172)     Progress report: (661/2172)     Progress report: (662/2172)     Progress report: (663/2172)     Progress report: (664/2172)     Progress report: (665/2172)     Progress report: (666/2172)     Progress report: (667/2172)     Progress report: (668/2172)     Progress report: (669/2172)     Progress report: (670/2172)     Progress report: (671/2172)     Progress report: (672/2172)     Progress report: (673/2172)     Progress report: (674/2172)     Progress report: (675/2172)     Progress report: (676/2172)     Progress report: (677/2172)     Progress report: (678/2172)     Progress report: (679/2172)     Progress report: (680/2172)     Progress report: (681/2172)     Progress report: (682/2172)     Progress report: (683/2172)     Progress report: (684/2172)     Progress report: (685/2172)     Progress report: (686/2172)     Progress report: (687/2172)     Progress report: (688/2172)     Progress report: (689/2172)     Progress report: (690/2172)     Progress report: (691/2172)     Progress report: (692/2172)     Progress report: (693/2172)     Progress report: (694/2172)     Progress report: (695/2172)     Progress report: (696/2172)     Progress report: (697/2172)     Progress report: (698/2172)     Progress report: (699/2172)     Progress report: (700/2172)     Progress report: (701/2172)     Progress report: (702/2172)     Progress report: (703/2172)     Progress report: (704/2172)     Progress report: (705/2172)     Progress report: (706/2172)     Progress report: (707/2172)     Progress report: (708/2172)     Progress report: (709/2172)     Progress report: (710/2172)     Progress report: (711/2172)     Progress report: (712/2172)     Progress report: (713/2172)     Progress report: (714/2172)     Progress report: (715/2172)     Progress report: (716/2172)     Progress report: (717/2172)     Progress report: (718/2172)     Progress report: (719/2172)     Progress report: (720/2172)     Progress report: (721/2172)     Progress report: (722/2172)     Progress report: (723/2172)     Progress report: (724/2172)     Progress report: (725/2172)     Progress report: (726/2172)     Progress report: (727/2172)     Progress report: (728/2172)     Progress report: (729/2172)     Progress report: (730/2172)     Progress report: (731/2172)     Progress report: (732/2172)     Progress report: (733/2172)     Progress report: (734/2172)     Progress report: (735/2172)     Progress report: (736/2172)     Progress report: (737/2172)     Progress report: (738/2172)     Progress report: (739/2172)     Progress report: (740/2172)     Progress report: (741/2172)     Progress report: (742/2172)     Progress report: (743/2172)     Progress report: (744/2172)     Progress report: (745/2172)     Progress report: (746/2172)     Progress report: (747/2172)     Progress report: (748/2172)     Progress report: (749/2172)     Progress report: (750/2172)     Progress report: (751/2172)     Progress report: (752/2172)     Progress report: (753/2172)     Progress report: (754/2172)     Progress report: (755/2172)     Progress report: (756/2172)     Progress report: (757/2172)     Progress report: (758/2172)     Progress report: (759/2172)     Progress report: (760/2172)     Progress report: (761/2172)     Progress report: (762/2172)     Progress report: (763/2172)     Progress report: (764/2172)     Progress report: (765/2172)     Progress report: (766/2172)     Progress report: (767/2172)     Progress report: (768/2172)     Progress report: (769/2172)     Progress report: (770/2172)     Progress report: (771/2172)     Progress report: (772/2172)     Progress report: (773/2172)     Progress report: (774/2172)     Progress report: (775/2172)     Progress report: (776/2172)     Progress report: (777/2172)     Progress report: (778/2172)     Progress report: (779/2172)     Progress report: (780/2172)     Progress report: (781/2172)     Progress report: (782/2172)     Progress report: (783/2172)     Progress report: (784/2172)     Progress report: (785/2172)     Progress report: (786/2172)     Progress report: (787/2172)     Progress report: (788/2172)     Progress report: (789/2172)     Progress report: (790/2172)     Progress report: (791/2172)     Progress report: (792/2172)     Progress report: (793/2172)     Progress report: (794/2172)     Progress report: (795/2172)     Progress report: (796/2172)     Progress report: (797/2172)     Progress report: (798/2172)     Progress report: (799/2172)     Progress report: (800/2172)     Progress report: (801/2172)     Progress report: (802/2172)     Progress report: (803/2172)     Progress report: (804/2172)     Progress report: (805/2172)     Progress report: (806/2172)     Progress report: (807/2172)     Progress report: (808/2172)     Progress report: (809/2172)     Progress report: (810/2172)     Progress report: (811/2172)     Progress report: (812/2172)     Progress report: (813/2172)     Progress report: (814/2172)     Progress report: (815/2172)     Progress report: (816/2172)     Progress report: (817/2172)     Progress report: (818/2172)     Progress report: (819/2172)     Progress report: (820/2172)     Progress report: (821/2172)     Progress report: (822/2172)     Progress report: (823/2172)     Progress report: (824/2172)     Progress report: (825/2172)     Progress report: (826/2172)     Progress report: (827/2172)     Progress report: (828/2172)     Progress report: (829/2172)     Progress report: (830/2172)     Progress report: (831/2172)     Progress report: (832/2172)     Progress report: (833/2172)     Progress report: (834/2172)     Progress report: (835/2172)     Progress report: (836/2172)     Progress report: (837/2172)     Progress report: (838/2172)     Progress report: (839/2172)     Progress report: (840/2172)     Progress report: (841/2172)     Progress report: (842/2172)     Progress report: (843/2172)     Progress report: (844/2172)     Progress report: (845/2172)     Progress report: (846/2172)     Progress report: (847/2172)     Progress report: (848/2172)     Progress report: (849/2172)     Progress report: (850/2172)     Progress report: (851/2172)     Progress report: (852/2172)     Progress report: (853/2172)     Progress report: (854/2172)     Progress report: (855/2172)     Progress report: (856/2172)     Progress report: (857/2172)     Progress report: (858/2172)     Progress report: (859/2172)     Progress report: (860/2172)     Progress report: (861/2172)     Progress report: (862/2172)     Progress report: (863/2172)     Progress report: (864/2172)     Progress report: (865/2172)     Progress report: (866/2172)     Progress report: (867/2172)     Progress report: (868/2172)     Progress report: (869/2172)     Progress report: (870/2172)     Progress report: (871/2172)     Progress report: (872/2172)     Progress report: (873/2172)     Progress report: (874/2172)     Progress report: (875/2172)     Progress report: (876/2172)     Progress report: (877/2172)     Progress report: (878/2172)     Progress report: (879/2172)     Progress report: (880/2172)     Progress report: (881/2172)     Progress report: (882/2172)     Progress report: (883/2172)     Progress report: (884/2172)     Progress report: (885/2172)     Progress report: (886/2172)     Progress report: (887/2172)     Progress report: (888/2172)     Progress report: (889/2172)     Progress report: (890/2172)     Progress report: (891/2172)     Progress report: (892/2172)     Progress report: (893/2172)     Progress report: (894/2172)     Progress report: (895/2172)     Progress report: (896/2172)     Progress report: (897/2172)     Progress report: (898/2172)     Progress report: (899/2172)     Progress report: (900/2172)     Progress report: (901/2172)     Progress report: (902/2172)     Progress report: (903/2172)     Progress report: (904/2172)     Progress report: (905/2172)     Progress report: (906/2172)     Progress report: (907/2172)     Progress report: (908/2172)     Progress report: (909/2172)     Progress report: (910/2172)     Progress report: (911/2172)     Progress report: (912/2172)     Progress report: (913/2172)     Progress report: (914/2172)     Progress report: (915/2172)     Progress report: (916/2172)     Progress report: (917/2172)     Progress report: (918/2172)     Progress report: (919/2172)     Progress report: (920/2172)     Progress report: (921/2172)     Progress report: (922/2172)     Progress report: (923/2172)     Progress report: (924/2172)     Progress report: (925/2172)     Progress report: (926/2172)     Progress report: (927/2172)     Progress report: (928/2172)     Progress report: (929/2172)     Progress report: (930/2172)     Progress report: (931/2172)     Progress report: (932/2172)     Progress report: (933/2172)     Progress report: (934/2172)     Progress report: (935/2172)     Progress report: (936/2172)     Progress report: (937/2172)     Progress report: (938/2172)     Progress report: (939/2172)     Progress report: (940/2172)     Progress report: (941/2172)     Progress report: (942/2172)     Progress report: (943/2172)     Progress report: (944/2172)     Progress report: (945/2172)     Progress report: (946/2172)     Progress report: (947/2172)     Progress report: (948/2172)     Progress report: (949/2172)     Progress report: (950/2172)     Progress report: (951/2172)     Progress report: (952/2172)     Progress report: (953/2172)     Progress report: (954/2172)     Progress report: (955/2172)     Progress report: (956/2172)     Progress report: (957/2172)     Progress report: (958/2172)     Progress report: (959/2172)     Progress report: (960/2172)     Progress report: (961/2172)     Progress report: (962/2172)     Progress report: (963/2172)     Progress report: (964/2172)     Progress report: (965/2172)     Progress report: (966/2172)     Progress report: (967/2172)     Progress report: (968/2172)     Progress report: (969/2172)     Progress report: (970/2172)     Progress report: (971/2172)     Progress report: (972/2172)     Progress report: (973/2172)     Progress report: (974/2172)     Progress report: (975/2172)     Progress report: (976/2172)     Progress report: (977/2172)     Progress report: (978/2172)     Progress report: (979/2172)     Progress report: (980/2172)     Progress report: (981/2172)     Progress report: (982/2172)     Progress report: (983/2172)     Progress report: (984/2172)     Progress report: (985/2172)     Progress report: (986/2172)     Progress report: (987/2172)     Progress report: (988/2172)     Progress report: (989/2172)     Progress report: (990/2172)     Progress report: (991/2172)     Progress report: (992/2172)     Progress report: (993/2172)     Progress report: (994/2172)     Progress report: (995/2172)     Progress report: (996/2172)     Progress report: (997/2172)     Progress report: (998/2172)     Progress report: (999/2172)     Progress report: (1000/2172)     Progress report: (1001/2172)     Progress report: (1002/2172)     Progress report: (1003/2172)     Progress report: (1004/2172)     Progress report: (1005/2172)     Progress report: (1006/2172)     Progress report: (1007/2172)     Progress report: (1008/2172)     Progress report: (1009/2172)     Progress report: (1010/2172)     Progress report: (1011/2172)     Progress report: (1012/2172)     Progress report: (1013/2172)     Progress report: (1014/2172)     Progress report: (1015/2172)     Progress report: (1016/2172)     Progress report: (1017/2172)     Progress report: (1018/2172)     Progress report: (1019/2172)     Progress report: (1020/2172)     Progress report: (1021/2172)     Progress report: (1022/2172)     Progress report: (1023/2172)     Progress report: (1024/2172)     Progress report: (1025/2172)     Progress report: (1026/2172)     Progress report: (1027/2172)     Progress report: (1028/2172)     Progress report: (1029/2172)     Progress report: (1030/2172)     Progress report: (1031/2172)     Progress report: (1032/2172)     Progress report: (1033/2172)     Progress report: (1034/2172)     Progress report: (1035/2172)     Progress report: (1036/2172)     Progress report: (1037/2172)     Progress report: (1038/2172)     Progress report: (1039/2172)     Progress report: (1040/2172)     Progress report: (1041/2172)     Progress report: (1042/2172)     Progress report: (1043/2172)     Progress report: (1044/2172)     Progress report: (1045/2172)     Progress report: (1046/2172)     Progress report: (1047/2172)     Progress report: (1048/2172)     Progress report: (1049/2172)     Progress report: (1050/2172)     Progress report: (1051/2172)     Progress report: (1052/2172)     Progress report: (1053/2172)     Progress report: (1054/2172)     Progress report: (1055/2172)     Progress report: (1056/2172)     Progress report: (1057/2172)     Progress report: (1058/2172)     Progress report: (1059/2172)     Progress report: (1060/2172)     Progress report: (1061/2172)     Progress report: (1062/2172)     Progress report: (1063/2172)     Progress report: (1064/2172)     Progress report: (1065/2172)     Progress report: (1066/2172)     Progress report: (1067/2172)     Progress report: (1068/2172)     Progress report: (1069/2172)     Progress report: (1070/2172)     Progress report: (1071/2172)     Progress report: (1072/2172)     Progress report: (1073/2172)     Progress report: (1074/2172)     Progress report: (1075/2172)     Progress report: (1076/2172)     Progress report: (1077/2172)     Progress report: (1078/2172)     Progress report: (1079/2172)     Progress report: (1080/2172)     Progress report: (1081/2172)     Progress report: (1082/2172)     Progress report: (1083/2172)     Progress report: (1084/2172)     Progress report: (1085/2172)     Progress report: (1086/2172)     Progress report: (1087/2172)     Progress report: (1088/2172)     Progress report: (1089/2172)     Progress report: (1090/2172)     Progress report: (1091/2172)     Progress report: (1092/2172)     Progress report: (1093/2172)     Progress report: (1094/2172)     Progress report: (1095/2172)     Progress report: (1096/2172)     Progress report: (1097/2172)     Progress report: (1098/2172)     Progress report: (1099/2172)     Progress report: (1100/2172)     Progress report: (1101/2172)     Progress report: (1102/2172)     Progress report: (1103/2172)     Progress report: (1104/2172)     Progress report: (1105/2172)     Progress report: (1106/2172)     Progress report: (1107/2172)     Progress report: (1108/2172)     Progress report: (1109/2172)     Progress report: (1110/2172)     Progress report: (1111/2172)     Progress report: (1112/2172)     Progress report: (1113/2172)     Progress report: (1114/2172)     Progress report: (1115/2172)     Progress report: (1116/2172)     Progress report: (1117/2172)     Progress report: (1118/2172)     Progress report: (1119/2172)     Progress report: (1120/2172)     Progress report: (1121/2172)     Progress report: (1122/2172)     Progress report: (1123/2172)     Progress report: (1124/2172)     Progress report: (1125/2172)     Progress report: (1126/2172)     Progress report: (1127/2172)     Progress report: (1128/2172)     Progress report: (1129/2172)     Progress report: (1130/2172)     Progress report: (1131/2172)     Progress report: (1132/2172)     Progress report: (1133/2172)     Progress report: (1134/2172)     Progress report: (1135/2172)     Progress report: (1136/2172)     Progress report: (1137/2172)     Progress report: (1138/2172)     Progress report: (1139/2172)     Progress report: (1140/2172)     Progress report: (1141/2172)     Progress report: (1142/2172)     Progress report: (1143/2172)     Progress report: (1144/2172)     Progress report: (1145/2172)     Progress report: (1146/2172)     Progress report: (1147/2172)     Progress report: (1148/2172)     Progress report: (1149/2172)     Progress report: (1150/2172)     Progress report: (1151/2172)     Progress report: (1152/2172)     Progress report: (1153/2172)     Progress report: (1154/2172)     Progress report: (1155/2172)     Progress report: (1156/2172)     Progress report: (1157/2172)     Progress report: (1158/2172)     Progress report: (1159/2172)     Progress report: (1160/2172)     Progress report: (1161/2172)     Progress report: (1162/2172)     Progress report: (1163/2172)     Progress report: (1164/2172)     Progress report: (1165/2172)     Progress report: (1166/2172)     Progress report: (1167/2172)     Progress report: (1168/2172)     Progress report: (1169/2172)     Progress report: (1170/2172)     Progress report: (1171/2172)     Progress report: (1172/2172)     Progress report: (1173/2172)     Progress report: (1174/2172)     Progress report: (1175/2172)     Progress report: (1176/2172)     Progress report: (1177/2172)     Progress report: (1178/2172)     Progress report: (1179/2172)     Progress report: (1180/2172)     Progress report: (1181/2172)     Progress report: (1182/2172)     Progress report: (1183/2172)     Progress report: (1184/2172)     Progress report: (1185/2172)     Progress report: (1186/2172)     Progress report: (1187/2172)     Progress report: (1188/2172)     Progress report: (1189/2172)     Progress report: (1190/2172)     Progress report: (1191/2172)     Progress report: (1192/2172)     Progress report: (1193/2172)     Progress report: (1194/2172)     Progress report: (1195/2172)     Progress report: (1196/2172)     Progress report: (1197/2172)     Progress report: (1198/2172)     Progress report: (1199/2172)     Progress report: (1200/2172)     Progress report: (1201/2172)     Progress report: (1202/2172)     Progress report: (1203/2172)     Progress report: (1204/2172)     Progress report: (1205/2172)     Progress report: (1206/2172)     Progress report: (1207/2172)     Progress report: (1208/2172)     Progress report: (1209/2172)     Progress report: (1210/2172)     Progress report: (1211/2172)     Progress report: (1212/2172)     Progress report: (1213/2172)     Progress report: (1214/2172)     Progress report: (1215/2172)     Progress report: (1216/2172)     Progress report: (1217/2172)     Progress report: (1218/2172)     Progress report: (1219/2172)     Progress report: (1220/2172)     Progress report: (1221/2172)     Progress report: (1222/2172)     Progress report: (1223/2172)     Progress report: (1224/2172)     Progress report: (1225/2172)     Progress report: (1226/2172)     Progress report: (1227/2172)     Progress report: (1228/2172)     Progress report: (1229/2172)     Progress report: (1230/2172)     Progress report: (1231/2172)     Progress report: (1232/2172)     Progress report: (1233/2172)     Progress report: (1234/2172)     Progress report: (1235/2172)     Progress report: (1236/2172)     Progress report: (1237/2172)     Progress report: (1238/2172)     Progress report: (1239/2172)     Progress report: (1240/2172)     Progress report: (1241/2172)     Progress report: (1242/2172)     Progress report: (1243/2172)     Progress report: (1244/2172)     Progress report: (1245/2172)     Progress report: (1246/2172)     Progress report: (1247/2172)     Progress report: (1248/2172)     Progress report: (1249/2172)     Progress report: (1250/2172)     Progress report: (1251/2172)     Progress report: (1252/2172)     Progress report: (1253/2172)     Progress report: (1254/2172)     Progress report: (1255/2172)     Progress report: (1256/2172)     Progress report: (1257/2172)     Progress report: (1258/2172)     Progress report: (1259/2172)     Progress report: (1260/2172)     Progress report: (1261/2172)     Progress report: (1262/2172)     Progress report: (1263/2172)     Progress report: (1264/2172)     Progress report: (1265/2172)     Progress report: (1266/2172)     Progress report: (1267/2172)     Progress report: (1268/2172)     Progress report: (1269/2172)     Progress report: (1270/2172)     Progress report: (1271/2172)     Progress report: (1272/2172)     Progress report: (1273/2172)     Progress report: (1274/2172)     Progress report: (1275/2172)     Progress report: (1276/2172)     Progress report: (1277/2172)     Progress report: (1278/2172)     Progress report: (1279/2172)     Progress report: (1280/2172)     Progress report: (1281/2172)     Progress report: (1282/2172)     Progress report: (1283/2172)     Progress report: (1284/2172)     Progress report: (1285/2172)     Progress report: (1286/2172)     Progress report: (1287/2172)     Progress report: (1288/2172)     Progress report: (1289/2172)     Progress report: (1290/2172)     Progress report: (1291/2172)     Progress report: (1292/2172)     Progress report: (1293/2172)     Progress report: (1294/2172)     Progress report: (1295/2172)     Progress report: (1296/2172)     Progress report: (1297/2172)     Progress report: (1298/2172)     Progress report: (1299/2172)     Progress report: (1300/2172)     Progress report: (1301/2172)     Progress report: (1302/2172)     Progress report: (1303/2172)     Progress report: (1304/2172)     Progress report: (1305/2172)     Progress report: (1306/2172)     Progress report: (1307/2172)     Progress report: (1308/2172)     Progress report: (1309/2172)     Progress report: (1310/2172)     Progress report: (1311/2172)     Progress report: (1312/2172)     Progress report: (1313/2172)     Progress report: (1314/2172)     Progress report: (1315/2172)     Progress report: (1316/2172)     Progress report: (1317/2172)     Progress report: (1318/2172)     Progress report: (1319/2172)     Progress report: (1320/2172)     Progress report: (1321/2172)     Progress report: (1322/2172)     Progress report: (1323/2172)     Progress report: (1324/2172)     Progress report: (1325/2172)     Progress report: (1326/2172)     Progress report: (1327/2172)     Progress report: (1328/2172)     Progress report: (1329/2172)     Progress report: (1330/2172)     Progress report: (1331/2172)     Progress report: (1332/2172)     Progress report: (1333/2172)     Progress report: (1334/2172)     Progress report: (1335/2172)     Progress report: (1336/2172)     Progress report: (1337/2172)     Progress report: (1338/2172)     Progress report: (1339/2172)     Progress report: (1340/2172)     Progress report: (1341/2172)     Progress report: (1342/2172)     Progress report: (1343/2172)     Progress report: (1344/2172)     Progress report: (1345/2172)     Progress report: (1346/2172)     Progress report: (1347/2172)     Progress report: (1348/2172)     Progress report: (1349/2172)     Progress report: (1350/2172)     Progress report: (1351/2172)     Progress report: (1352/2172)     Progress report: (1353/2172)     Progress report: (1354/2172)     Progress report: (1355/2172)     Progress report: (1356/2172)     Progress report: (1357/2172)     Progress report: (1358/2172)     Progress report: (1359/2172)     Progress report: (1360/2172)     Progress report: (1361/2172)     Progress report: (1362/2172)     Progress report: (1363/2172)     Progress report: (1364/2172)     Progress report: (1365/2172)     Progress report: (1366/2172)     Progress report: (1367/2172)     Progress report: (1368/2172)     Progress report: (1369/2172)     Progress report: (1370/2172)     Progress report: (1371/2172)     Progress report: (1372/2172)     Progress report: (1373/2172)     Progress report: (1374/2172)     Progress report: (1375/2172)     Progress report: (1376/2172)     Progress report: (1377/2172)     Progress report: (1378/2172)     Progress report: (1379/2172)     Progress report: (1380/2172)     Progress report: (1381/2172)     Progress report: (1382/2172)     Progress report: (1383/2172)     Progress report: (1384/2172)     Progress report: (1385/2172)     Progress report: (1386/2172)     Progress report: (1387/2172)     Progress report: (1388/2172)     Progress report: (1389/2172)     Progress report: (1390/2172)     Progress report: (1391/2172)     Progress report: (1392/2172)     Progress report: (1393/2172)     Progress report: (1394/2172)     Progress report: (1395/2172)     Progress report: (1396/2172)     Progress report: (1397/2172)     Progress report: (1398/2172)     Progress report: (1399/2172)     Progress report: (1400/2172)     Progress report: (1401/2172)     Progress report: (1402/2172)     Progress report: (1403/2172)     Progress report: (1404/2172)     Progress report: (1405/2172)     Progress report: (1406/2172)     Progress report: (1407/2172)     Progress report: (1408/2172)     Progress report: (1409/2172)     Progress report: (1410/2172)     Progress report: (1411/2172)     Progress report: (1412/2172)     Progress report: (1413/2172)     Progress report: (1414/2172)     Progress report: (1415/2172)     Progress report: (1416/2172)     Progress report: (1417/2172)     Progress report: (1418/2172)     Progress report: (1419/2172)     Progress report: (1420/2172)     Progress report: (1421/2172)     Progress report: (1422/2172)     Progress report: (1423/2172)     Progress report: (1424/2172)     Progress report: (1425/2172)     Progress report: (1426/2172)     Progress report: (1427/2172)     Progress report: (1428/2172)     Progress report: (1429/2172)     Progress report: (1430/2172)     Progress report: (1431/2172)     Progress report: (1432/2172)     Progress report: (1433/2172)     Progress report: (1434/2172)     Progress report: (1435/2172)     Progress report: (1436/2172)     Progress report: (1437/2172)     Progress report: (1438/2172)     Progress report: (1439/2172)     Progress report: (1440/2172)     Progress report: (1441/2172)     Progress report: (1442/2172)     Progress report: (1443/2172)     Progress report: (1444/2172)     Progress report: (1445/2172)     Progress report: (1446/2172)     Progress report: (1447/2172)     Progress report: (1448/2172)     Progress report: (1449/2172)     Progress report: (1450/2172)     Progress report: (1451/2172)     Progress report: (1452/2172)     Progress report: (1453/2172)     Progress report: (1454/2172)     Progress report: (1455/2172)     Progress report: (1456/2172)     Progress report: (1457/2172)     Progress report: (1458/2172)     Progress report: (1459/2172)     Progress report: (1460/2172)     Progress report: (1461/2172)     Progress report: (1462/2172)     Progress report: (1463/2172)     Progress report: (1464/2172)     Progress report: (1465/2172)     Progress report: (1466/2172)     Progress report: (1467/2172)     Progress report: (1468/2172)     Progress report: (1469/2172)     Progress report: (1470/2172)     Progress report: (1471/2172)     Progress report: (1472/2172)     Progress report: (1473/2172)     Progress report: (1474/2172)     Progress report: (1475/2172)     Progress report: (1476/2172)     Progress report: (1477/2172)     Progress report: (1478/2172)     Progress report: (1479/2172)     Progress report: (1480/2172)     Progress report: (1481/2172)     Progress report: (1482/2172)     Progress report: (1483/2172)     Progress report: (1484/2172)     Progress report: (1485/2172)     Progress report: (1486/2172)     Progress report: (1487/2172)     Progress report: (1488/2172)     Progress report: (1489/2172)     Progress report: (1490/2172)     Progress report: (1491/2172)     Progress report: (1492/2172)     Progress report: (1493/2172)     Progress report: (1494/2172)     Progress report: (1495/2172)     Progress report: (1496/2172)     Progress report: (1497/2172)     Progress report: (1498/2172)     Progress report: (1499/2172)     Progress report: (1500/2172)     Progress report: (1501/2172)     Progress report: (1502/2172)     Progress report: (1503/2172)     Progress report: (1504/2172)     Progress report: (1505/2172)     Progress report: (1506/2172)     Progress report: (1507/2172)     Progress report: (1508/2172)     Progress report: (1509/2172)     Progress report: (1510/2172)     Progress report: (1511/2172)     Progress report: (1512/2172)     Progress report: (1513/2172)     Progress report: (1514/2172)     Progress report: (1515/2172)     Progress report: (1516/2172)     Progress report: (1517/2172)     Progress report: (1518/2172)     Progress report: (1519/2172)     Progress report: (1520/2172)     Progress report: (1521/2172)     Progress report: (1522/2172)     Progress report: (1523/2172)     Progress report: (1524/2172)     Progress report: (1525/2172)     Progress report: (1526/2172)     Progress report: (1527/2172)     Progress report: (1528/2172)     Progress report: (1529/2172)     Progress report: (1530/2172)     Progress report: (1531/2172)     Progress report: (1532/2172)     Progress report: (1533/2172)     Progress report: (1534/2172)     Progress report: (1535/2172)     Progress report: (1536/2172)     Progress report: (1537/2172)     Progress report: (1538/2172)     Progress report: (1539/2172)     Progress report: (1540/2172)     Progress report: (1541/2172)     Progress report: (1542/2172)     Progress report: (1543/2172)     Progress report: (1544/2172)     Progress report: (1545/2172)     Progress report: (1546/2172)     Progress report: (1547/2172)     Progress report: (1548/2172)     Progress report: (1549/2172)     Progress report: (1550/2172)     Progress report: (1551/2172)     Progress report: (1552/2172)     Progress report: (1553/2172)     Progress report: (1554/2172)     Progress report: (1555/2172)     Progress report: (1556/2172)     Progress report: (1557/2172)     Progress report: (1558/2172)     Progress report: (1559/2172)     Progress report: (1560/2172)     Progress report: (1561/2172)     Progress report: (1562/2172)     Progress report: (1563/2172)     Progress report: (1564/2172)     Progress report: (1565/2172)     Progress report: (1566/2172)     Progress report: (1567/2172)     Progress report: (1568/2172)     Progress report: (1569/2172)     Progress report: (1570/2172)     Progress report: (1571/2172)     Progress report: (1572/2172)     Progress report: (1573/2172)     Progress report: (1574/2172)     Progress report: (1575/2172)     Progress report: (1576/2172)     Progress report: (1577/2172)     Progress report: (1578/2172)     Progress report: (1579/2172)     Progress report: (1580/2172)     Progress report: (1581/2172)     Progress report: (1582/2172)     Progress report: (1583/2172)     Progress report: (1584/2172)     Progress report: (1585/2172)     Progress report: (1586/2172)     Progress report: (1587/2172)     Progress report: (1588/2172)     Progress report: (1589/2172)     Progress report: (1590/2172)     Progress report: (1591/2172)     Progress report: (1592/2172)     Progress report: (1593/2172)     Progress report: (1594/2172)     Progress report: (1595/2172)     Progress report: (1596/2172)     Progress report: (1597/2172)     Progress report: (1598/2172)     Progress report: (1599/2172)     Progress report: (1600/2172)     Progress report: (1601/2172)     Progress report: (1602/2172)     Progress report: (1603/2172)     Progress report: (1604/2172)     Progress report: (1605/2172)     Progress report: (1606/2172)     Progress report: (1607/2172)     Progress report: (1608/2172)     Progress report: (1609/2172)     Progress report: (1610/2172)     Progress report: (1611/2172)     Progress report: (1612/2172)     Progress report: (1613/2172)     Progress report: (1614/2172)     Progress report: (1615/2172)     Progress report: (1616/2172)     Progress report: (1617/2172)     Progress report: (1618/2172)     Progress report: (1619/2172)     Progress report: (1620/2172)     Progress report: (1621/2172)     Progress report: (1622/2172)     Progress report: (1623/2172)     Progress report: (1624/2172)     Progress report: (1625/2172)     Progress report: (1626/2172)     Progress report: (1627/2172)     Progress report: (1628/2172)     Progress report: (1629/2172)     Progress report: (1630/2172)     Progress report: (1631/2172)     Progress report: (1632/2172)     Progress report: (1633/2172)     Progress report: (1634/2172)     Progress report: (1635/2172)     Progress report: (1636/2172)     Progress report: (1637/2172)     Progress report: (1638/2172)     Progress report: (1639/2172)     Progress report: (1640/2172)     Progress report: (1641/2172)     Progress report: (1642/2172)     Progress report: (1643/2172)     Progress report: (1644/2172)     Progress report: (1645/2172)     Progress report: (1646/2172)     Progress report: (1647/2172)     Progress report: (1648/2172)     Progress report: (1649/2172)     Progress report: (1650/2172)     Progress report: (1651/2172)     Progress report: (1652/2172)     Progress report: (1653/2172)     Progress report: (1654/2172)     Progress report: (1655/2172)     Progress report: (1656/2172)     Progress report: (1657/2172)     Progress report: (1658/2172)     Progress report: (1659/2172)     Progress report: (1660/2172)     Progress report: (1661/2172)     Progress report: (1662/2172)     Progress report: (1663/2172)     Progress report: (1664/2172)     Progress report: (1665/2172)     Progress report: (1666/2172)     Progress report: (1667/2172)     Progress report: (1668/2172)     Progress report: (1669/2172)     Progress report: (1670/2172)     Progress report: (1671/2172)     Progress report: (1672/2172)     Progress report: (1673/2172)     Progress report: (1674/2172)     Progress report: (1675/2172)     Progress report: (1676/2172)     Progress report: (1677/2172)     Progress report: (1678/2172)     Progress report: (1679/2172)     Progress report: (1680/2172)     Progress report: (1681/2172)     Progress report: (1682/2172)     Progress report: (1683/2172)     Progress report: (1684/2172)     Progress report: (1685/2172)     Progress report: (1686/2172)     Progress report: (1687/2172)     Progress report: (1688/2172)     Progress report: (1689/2172)     Progress report: (1690/2172)     Progress report: (1691/2172)     Progress report: (1692/2172)     Progress report: (1693/2172)     Progress report: (1694/2172)     Progress report: (1695/2172)     Progress report: (1696/2172)     Progress report: (1697/2172)     Progress report: (1698/2172)     Progress report: (1699/2172)     Progress report: (1700/2172)     Progress report: (1701/2172)     Progress report: (1702/2172)     Progress report: (1703/2172)     Progress report: (1704/2172)     Progress report: (1705/2172)     Progress report: (1706/2172)     Progress report: (1707/2172)     Progress report: (1708/2172)     Progress report: (1709/2172)     Progress report: (1710/2172)     Progress report: (1711/2172)     Progress report: (1712/2172)     Progress report: (1713/2172)     Progress report: (1714/2172)     Progress report: (1715/2172)     Progress report: (1716/2172)     Progress report: (1717/2172)     Progress report: (1718/2172)     Progress report: (1719/2172)     Progress report: (1720/2172)     Progress report: (1721/2172)     Progress report: (1722/2172)     Progress report: (1723/2172)     Progress report: (1724/2172)     Progress report: (1725/2172)     Progress report: (1726/2172)     Progress report: (1727/2172)     Progress report: (1728/2172)     Progress report: (1729/2172)     Progress report: (1730/2172)     Progress report: (1731/2172)     Progress report: (1732/2172)     Progress report: (1733/2172)     Progress report: (1734/2172)     Progress report: (1735/2172)     Progress report: (1736/2172)     Progress report: (1737/2172)     Progress report: (1738/2172)     Progress report: (1739/2172)     Progress report: (1740/2172)     Progress report: (1741/2172)     Progress report: (1742/2172)     Progress report: (1743/2172)     Progress report: (1744/2172)     Progress report: (1745/2172)     Progress report: (1746/2172)     Progress report: (1747/2172)     Progress report: (1748/2172)     Progress report: (1749/2172)     Progress report: (1750/2172)     Progress report: (1751/2172)     Progress report: (1752/2172)     Progress report: (1753/2172)     Progress report: (1754/2172)     Progress report: (1755/2172)     Progress report: (1756/2172)     Progress report: (1757/2172)     Progress report: (1758/2172)     Progress report: (1759/2172)     Progress report: (1760/2172)     Progress report: (1761/2172)     Progress report: (1762/2172)     Progress report: (1763/2172)     Progress report: (1764/2172)     Progress report: (1765/2172)     Progress report: (1766/2172)     Progress report: (1767/2172)     Progress report: (1768/2172)     Progress report: (1769/2172)     Progress report: (1770/2172)     Progress report: (1771/2172)     Progress report: (1772/2172)     Progress report: (1773/2172)     Progress report: (1774/2172)     Progress report: (1775/2172)     Progress report: (1776/2172)     Progress report: (1777/2172)     Progress report: (1778/2172)     Progress report: (1779/2172)     Progress report: (1780/2172)     Progress report: (1781/2172)     Progress report: (1782/2172)     Progress report: (1783/2172)     Progress report: (1784/2172)     Progress report: (1785/2172)     Progress report: (1786/2172)     Progress report: (1787/2172)     Progress report: (1788/2172)     Progress report: (1789/2172)     Progress report: (1790/2172)     Progress report: (1791/2172)     Progress report: (1792/2172)     Progress report: (1793/2172)     Progress report: (1794/2172)     Progress report: (1795/2172)     Progress report: (1796/2172)     Progress report: (1797/2172)     Progress report: (1798/2172)     Progress report: (1799/2172)     Progress report: (1800/2172)     Progress report: (1801/2172)     Progress report: (1802/2172)     Progress report: (1803/2172)     Progress report: (1804/2172)     Progress report: (1805/2172)     Progress report: (1806/2172)     Progress report: (1807/2172)     Progress report: (1808/2172)     Progress report: (1809/2172)     Progress report: (1810/2172)     Progress report: (1811/2172)     Progress report: (1812/2172)     Progress report: (1813/2172)     Progress report: (1814/2172)     Progress report: (1815/2172)     Progress report: (1816/2172)     Progress report: (1817/2172)     Progress report: (1818/2172)     Progress report: (1819/2172)     Progress report: (1820/2172)     Progress report: (1821/2172)     Progress report: (1822/2172)     Progress report: (1823/2172)     Progress report: (1824/2172)     Progress report: (1825/2172)     Progress report: (1826/2172)     Progress report: (1827/2172)     Progress report: (1828/2172)     Progress report: (1829/2172)     Progress report: (1830/2172)     Progress report: (1831/2172)     Progress report: (1832/2172)     Progress report: (1833/2172)     Progress report: (1834/2172)     Progress report: (1835/2172)     Progress report: (1836/2172)     Progress report: (1837/2172)     Progress report: (1838/2172)     Progress report: (1839/2172)     Progress report: (1840/2172)     Progress report: (1841/2172)     Progress report: (1842/2172)     Progress report: (1843/2172)     Progress report: (1844/2172)     Progress report: (1845/2172)     Progress report: (1846/2172)     Progress report: (1847/2172)     Progress report: (1848/2172)     Progress report: (1849/2172)     Progress report: (1850/2172)     Progress report: (1851/2172)     Progress report: (1852/2172)     Progress report: (1853/2172)     Progress report: (1854/2172)     Progress report: (1855/2172)     Progress report: (1856/2172)     Progress report: (1857/2172)     Progress report: (1858/2172)     Progress report: (1859/2172)     Progress report: (1860/2172)     Progress report: (1861/2172)     Progress report: (1862/2172)     Progress report: (1863/2172)     Progress report: (1864/2172)     Progress report: (1865/2172)     Progress report: (1866/2172)     Progress report: (1867/2172)     Progress report: (1868/2172)     Progress report: (1869/2172)     Progress report: (1870/2172)     Progress report: (1871/2172)     Progress report: (1872/2172)     Progress report: (1873/2172)     Progress report: (1874/2172)     Progress report: (1875/2172)     Progress report: (1876/2172)     Progress report: (1877/2172)     Progress report: (1878/2172)     Progress report: (1879/2172)     Progress report: (1880/2172)     Progress report: (1881/2172)     Progress report: (1882/2172)     Progress report: (1883/2172)     Progress report: (1884/2172)     Progress report: (1885/2172)     Progress report: (1886/2172)     Progress report: (1887/2172)     Progress report: (1888/2172)     Progress report: (1889/2172)     Progress report: (1890/2172)     Progress report: (1891/2172)     Progress report: (1892/2172)     Progress report: (1893/2172)     Progress report: (1894/2172)     Progress report: (1895/2172)     Progress report: (1896/2172)     Progress report: (1897/2172)     Progress report: (1898/2172)     Progress report: (1899/2172)     Progress report: (1900/2172)     Progress report: (1901/2172)     Progress report: (1902/2172)     Progress report: (1903/2172)     Progress report: (1904/2172)     Progress report: (1905/2172)     Progress report: (1906/2172)     Progress report: (1907/2172)     Progress report: (1908/2172)     Progress report: (1909/2172)     Progress report: (1910/2172)     Progress report: (1911/2172)     Progress report: (1912/2172)     Progress report: (1913/2172)     Progress report: (1914/2172)     Progress report: (1915/2172)     Progress report: (1916/2172)     Progress report: (1917/2172)     Progress report: (1918/2172)     Progress report: (1919/2172)     Progress report: (1920/2172)     Progress report: (1921/2172)     Progress report: (1922/2172)     Progress report: (1923/2172)     Progress report: (1924/2172)     Progress report: (1925/2172)     Progress report: (1926/2172)     Progress report: (1927/2172)     Progress report: (1928/2172)     Progress report: (1929/2172)     Progress report: (1930/2172)     Progress report: (1931/2172)     Progress report: (1932/2172)     Progress report: (1933/2172)     Progress report: (1934/2172)     Progress report: (1935/2172)     Progress report: (1936/2172)     Progress report: (1937/2172)     Progress report: (1938/2172)     Progress report: (1939/2172)     Progress report: (1940/2172)     Progress report: (1941/2172)     Progress report: (1942/2172)     Progress report: (1943/2172)     Progress report: (1944/2172)     Progress report: (1945/2172)     Progress report: (1946/2172)     Progress report: (1947/2172)     Progress report: (1948/2172)     Progress report: (1949/2172)     Progress report: (1950/2172)     Progress report: (1951/2172)     Progress report: (1952/2172)     Progress report: (1953/2172)     Progress report: (1954/2172)     Progress report: (1955/2172)     Progress report: (1956/2172)     Progress report: (1957/2172)     Progress report: (1958/2172)     Progress report: (1959/2172)     Progress report: (1960/2172)     Progress report: (1961/2172)     Progress report: (1962/2172)     Progress report: (1963/2172)     Progress report: (1964/2172)     Progress report: (1965/2172)     Progress report: (1966/2172)     Progress report: (1967/2172)     Progress report: (1968/2172)     Progress report: (1969/2172)     Progress report: (1970/2172)     Progress report: (1971/2172)     Progress report: (1972/2172)     Progress report: (1973/2172)     Progress report: (1974/2172)     Progress report: (1975/2172)     Progress report: (1976/2172)     Progress report: (1977/2172)     Progress report: (1978/2172)     Progress report: (1979/2172)     Progress report: (1980/2172)     Progress report: (1981/2172)     Progress report: (1982/2172)     Progress report: (1983/2172)     Progress report: (1984/2172)     Progress report: (1985/2172)     Progress report: (1986/2172)     Progress report: (1987/2172)     Progress report: (1988/2172)     Progress report: (1989/2172)     Progress report: (1990/2172)     Progress report: (1991/2172)     Progress report: (1992/2172)     Progress report: (1993/2172)     Progress report: (1994/2172)     Progress report: (1995/2172)     Progress report: (1996/2172)     Progress report: (1997/2172)     Progress report: (1998/2172)     Progress report: (1999/2172)     Progress report: (2000/2172)     Progress report: (2001/2172)     Progress report: (2002/2172)     Progress report: (2003/2172)     Progress report: (2004/2172)     Progress report: (2005/2172)     Progress report: (2006/2172)     Progress report: (2007/2172)     Progress report: (2008/2172)     Progress report: (2009/2172)     Progress report: (2010/2172)     Progress report: (2011/2172)     Progress report: (2012/2172)     Progress report: (2013/2172)     Progress report: (2014/2172)     Progress report: (2015/2172)     Progress report: (2016/2172)     Progress report: (2017/2172)     Progress report: (2018/2172)     Progress report: (2019/2172)     Progress report: (2020/2172)     Progress report: (2021/2172)     Progress report: (2022/2172)     Progress report: (2023/2172)     Progress report: (2024/2172)     Progress report: (2025/2172)     Progress report: (2026/2172)     Progress report: (2027/2172)     Progress report: (2028/2172)     Progress report: (2029/2172)     Progress report: (2030/2172)     Progress report: (2031/2172)     Progress report: (2032/2172)     Progress report: (2033/2172)     Progress report: (2034/2172)     Progress report: (2035/2172)     Progress report: (2036/2172)     Progress report: (2037/2172)     Progress report: (2038/2172)     Progress report: (2039/2172)     Progress report: (2040/2172)     Progress report: (2041/2172)     Progress report: (2042/2172)     Progress report: (2043/2172)     Progress report: (2044/2172)     Progress report: (2045/2172)     Progress report: (2046/2172)     Progress report: (2047/2172)     Progress report: (2048/2172)     Progress report: (2049/2172)     Progress report: (2050/2172)     Progress report: (2051/2172)     Progress report: (2052/2172)     Progress report: (2053/2172)     Progress report: (2054/2172)     Progress report: (2055/2172)     Progress report: (2056/2172)     Progress report: (2057/2172)     Progress report: (2058/2172)     Progress report: (2059/2172)     Progress report: (2060/2172)     Progress report: (2061/2172)     Progress report: (2062/2172)     Progress report: (2063/2172)     Progress report: (2064/2172)     Progress report: (2065/2172)     Progress report: (2066/2172)     Progress report: (2067/2172)     Progress report: (2068/2172)     Progress report: (2069/2172)     Progress report: (2070/2172)     Progress report: (2071/2172)     Progress report: (2072/2172)     Progress report: (2073/2172)     Progress report: (2074/2172)     Progress report: (2075/2172)     Progress report: (2076/2172)     Progress report: (2077/2172)     Progress report: (2078/2172)     Progress report: (2079/2172)     Progress report: (2080/2172)     Progress report: (2081/2172)     Progress report: (2082/2172)     Progress report: (2083/2172)     Progress report: (2084/2172)     Progress report: (2085/2172)     Progress report: (2086/2172)     Progress report: (2087/2172)     Progress report: (2088/2172)     Progress report: (2089/2172)     Progress report: (2090/2172)     Progress report: (2091/2172)     Progress report: (2092/2172)     Progress report: (2093/2172)     Progress report: (2094/2172)     Progress report: (2095/2172)     Progress report: (2096/2172)     Progress report: (2097/2172)     Progress report: (2098/2172)     Progress report: (2099/2172)     Progress report: (2100/2172)     Progress report: (2101/2172)     Progress report: (2102/2172)     Progress report: (2103/2172)     Progress report: (2104/2172)     Progress report: (2105/2172)     Progress report: (2106/2172)     Progress report: (2107/2172)     Progress report: (2108/2172)     Progress report: (2109/2172)     Progress report: (2110/2172)     Progress report: (2111/2172)     Progress report: (2112/2172)     Progress report: (2113/2172)     Progress report: (2114/2172)     Progress report: (2115/2172)     Progress report: (2116/2172)     Progress report: (2117/2172)     Progress report: (2118/2172)     Progress report: (2119/2172)     Progress report: (2120/2172)     Progress report: (2121/2172)     Progress report: (2122/2172)     Progress report: (2123/2172)     Progress report: (2124/2172)     Progress report: (2125/2172)     Progress report: (2126/2172)     Progress report: (2127/2172)     Progress report: (2128/2172)     Progress report: (2129/2172)     Progress report: (2130/2172)     Progress report: (2131/2172)     Progress report: (2132/2172)     Progress report: (2133/2172)     Progress report: (2134/2172)     Progress report: (2135/2172)     Progress report: (2136/2172)     Progress report: (2137/2172)     Progress report: (2138/2172)     Progress report: (2139/2172)     Progress report: (2140/2172)     Progress report: (2141/2172)     Progress report: (2142/2172)     Progress report: (2143/2172)     Progress report: (2144/2172)     Progress report: (2145/2172)     Progress report: (2146/2172)     Progress report: (2147/2172)     Progress report: (2148/2172)     Progress report: (2149/2172)     Progress report: (2150/2172)     Progress report: (2151/2172)     Progress report: (2152/2172)     Progress report: (2153/2172)     Progress report: (2154/2172)     Progress report: (2155/2172)     Progress report: (2156/2172)     Progress report: (2157/2172)     Progress report: (2158/2172)     Progress report: (2159/2172)     Progress report: (2160/2172)     Progress report: (2161/2172)     Progress report: (2162/2172)     Progress report: (2163/2172)     Progress report: (2164/2172)     Progress report: (2165/2172)     Progress report: (2166/2172)     Progress report: (2167/2172)     Progress report: (2168/2172)     Progress report: (2169/2172)     Progress report: (2170/2172)     Progress report: (2171/2172)     Progress report: (2172/2172)    2011695 nt read in total.
+Mother Hashtable successfully built. 855481 21-mers stored.
+Hashtable sorting done: maximum number of collisions: 2
+Removal of common k-mers done: 703222 specific 21-mers found.
+Creating database in disk...
+703222 21-mers successfully stored in database.
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0003_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 26.6415 s. Speed: 8231333 objects/min. (3654918 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0003_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0013_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 29.048 s. Speed: 8828246 objects/min. (4274045 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0013_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0023_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 36.8023 s. Speed: 8826205 objects/min. (5413751 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0023_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0053_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 24.4452 s. Speed: 8941978 objects/min. (3643136 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0053_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0103_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 47.2986 s. Speed: 9128162 objects/min. (7195825 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0103_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0113_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 40.2113 s. Speed: 8573500 objects/min. (5745859 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0113_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0133_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 32.4999 s. Speed: 8716440 objects/min. (4721389 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0133_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AE0233_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.3906 s. Speed: 8834212 objects/min. (5063563 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AE0233_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1343_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.534 s. Speed: 8616755 objects/min. (5103127 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1343_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1383_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.2452 s. Speed: 9263151 objects/min. (5441367 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1383_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1393_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 39.3397 s. Speed: 9309578 objects/min. (6103939 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1393_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1403_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 48.4965 s. Speed: 9275712 objects/min. (7497323 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1403_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1413_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 53.2055 s. Speed: 9534260 objects/min. (8454580 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1413_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1423_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 32.3756 s. Speed: 9453421 objects/min. (5101000 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1423_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1433_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 26.9578 s. Speed: 9578693 objects/min. (4303682 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1433_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1456_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 52.4098 s. Speed: 9334419 objects/min. (8153582 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1456_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1463_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.5565 s. Speed: 9025432 objects/min. (5649393 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1463_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1473_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.8156 s. Speed: 8979504 objects/min. (5360101 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1473_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1483_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 40.3778 s. Speed: 10155104 objects/min. (6834012 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1483_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1484_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 100.779 s. Speed: 9962033 objects/min. (16732672 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1484_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1485_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 75.1328 s. Speed: 9700432 objects/min. (12147016 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1485_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1487_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 167.298 s. Speed: 8961438 objects/min. (24987173 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1487_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1492_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 89.7892 s. Speed: 9354598 objects/min. (13999025 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1492_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1493_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 39.2269 s. Speed: 8888813 objects/min. (5811346 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1493_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1496_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 145.191 s. Speed: 8552021 objects/min. (20694631 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1496_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1502_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 124.963 s. Speed: 8280366 objects/min. (17245657 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1502_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1503_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 41.1303 s. Speed: 9868259 objects/min. (6764743 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1503_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1504_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 178.809 s. Speed: 9124835 objects/min. (27193330 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1504_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1509_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 113.349 s. Speed: 11338918 objects/min. (21420903 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1509_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1510_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 99.6969 s. Speed: 12808440 objects/min. (21282692 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1510_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1513_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 30.7037 s. Speed: 9164783 objects/min. (4689881 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1513_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1517_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 75.8444 s. Speed: 11770859 objects/min. (14879233 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1517_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1518_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 101.014 s. Speed: 9267610 objects/min. (15602571 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1518_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1519_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 103.912 s. Speed: 9890152 objects/min. (17128382 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1519_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1954_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 30.5574 s. Speed: 10007627 objects/min. (5096785 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1954_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1955_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 29.5163 s. Speed: 10283276 objects/min. (5058743 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1955_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1956_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 38.4221 s. Speed: 10122626 objects/min. (6482202 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1956_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1957_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 32.4565 s. Speed: 10448507 objects/min. (5652026 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1957_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1958_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.131 s. Speed: 10380562 objects/min. (6077984 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1958_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1963_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.8717 s. Speed: 10829954 objects/min. (6294322 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1963_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1965_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 55.9827 s. Speed: 10378505 objects/min. (9683610 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1965_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1966_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 29.3624 s. Speed: 9907351 objects/min. (4848392 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1966_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1967_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 21.2498 s. Speed: 10352231 objects/min. (3666381 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1967_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AS1969_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 20.8838 s. Speed: 9793058 objects/min. (3408609 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AS1969_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0253_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 28.7582 s. Speed: 9461245 objects/min. (4534807 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0253_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0254_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 23.1769 s. Speed: 9488410 objects/min. (3665192 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0254_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0258_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 33.4202 s. Speed: 9625232 objects/min. (5361285 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0258_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0262_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 46.3398 s. Speed: 8079910 objects/min. (6240360 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0262_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0263_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 33.5532 s. Speed: 8401676 objects/min. (4698383 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0263_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0264_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 39.4126 s. Speed: 7918890 objects/min. (5201730 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0264_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0265_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 21.9503 s. Speed: 9043529 objects/min. (3308468 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0265_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0267_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 41.8357 s. Speed: 9222315 objects/min. (6430370 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0267_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0268_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 24.3372 s. Speed: 9655321 objects/min. (3916389 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0268_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0269_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 56.5166 s. Speed: 7740856 objects/min. (7291452 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0269_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0273_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 31.4535 s. Speed: 7894512 objects/min. (4138507 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0273_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0277_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.7214 s. Speed: 8312564 objects/min. (5226033 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0277_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0283_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.8221 s. Speed: 8032642 objects/min. (5063528 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0283_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0293_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 42.132 s. Speed: 8639078 objects/min. (6066367 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0293_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0301_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 42.991 s. Speed: 7708131 objects/min. (5523006 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0301_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0302_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 50.2521 s. Speed: 6638814 objects/min. (5560239 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0302_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0303_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 38.1047 s. Speed: 7864359 objects/min. (4994487 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0303_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0306_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 41.9688 s. Speed: 7728552 objects/min. (5405972 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0306_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0307_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 56.6789 s. Speed: 7799302 objects/min. (7367597 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0307_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0308_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.0203 s. Speed: 8424195 objects/min. (5197767 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0308_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0313_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.3527 s. Speed: 7270440 objects/min. (4526179 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0313_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0323_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 45.4699 s. Speed: 7923110 objects/min. (6004379 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0323_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0333_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 43.1308 s. Speed: 7533041 objects/min. (5415096 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0333_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0343_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 43.6955 s. Speed: 8594389 objects/min. (6258932 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0343_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0353_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 54.1553 s. Speed: 7973085 objects/min. (7196411 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0353_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0363_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 31.1398 s. Speed: 8371727 objects/min. (4344896 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0363_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0371_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 55.2016 s. Speed: 8387258 objects/min. (7716498 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0371_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0372_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 33.8185 s. Speed: 8038118 objects/min. (4530614 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0372_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0373_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.052 s. Speed: 8662700 objects/min. (4916371 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0373_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0375_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.9602 s. Speed: 8796459 objects/min. (5125430 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0375_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0377_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.9128 s. Speed: 8198181 objects/min. (5180261 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0377_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0378_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 38.6914 s. Speed: 10656341 objects/min. (6871818 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0378_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0383_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 30.1071 s. Speed: 9904995 objects/min. (4970180 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0383_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0401_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 38.232 s. Speed: 9095725 objects/min. (5795801 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0401_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0402_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 37.2885 s. Speed: 9884803 objects/min. (6143159 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0402_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0404_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 24.9096 s. Speed: 10202318 objects/min. (4235596 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0404_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0405_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 27.7124 s. Speed: 9830990 objects/min. (4540675 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0405_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0406_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 44.2631 s. Speed: 10333297 objects/min. (7623070 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0406_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0407_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.3518 s. Speed: 9534606 objects/min. (5458846 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0407_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0408_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 27.6077 s. Speed: 8558410 objects/min. (3937962 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0408_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0409_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 28.82 s. Speed: 9566439 objects/min. (4595078 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0409_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0411_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 40.2175 s. Speed: 9092694 objects/min. (6094764 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0411_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0412_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 39.1297 s. Speed: 8026415 objects/min. (5234525 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0412_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0413_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 47.9179 s. Speed: 9093241 objects/min. (7262152 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0413_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0414_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 33.4619 s. Speed: 8310603 objects/min. (4634810 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0414_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0415_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 61.619 s. Speed: 8004099 objects/min. (8220081 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0415_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0416_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.2463 s. Speed: 7981853 objects/min. (4688840 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0416_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0417_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 35.2309 s. Speed: 8050299 objects/min. (4726993 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0417_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0418_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 48.258 s. Speed: 7848998 objects/min. (6312951 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0418_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0419_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 41.6361 s. Speed: 8182217 objects/min. (5677930 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0419_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0421_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 25.3616 s. Speed: 8372192 objects/min. (3538865 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0421_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0422_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 44.0624 s. Speed: 8046342 objects/min. (5909025 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0422_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0424_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 68.353 s. Speed: 8294746 objects/min. (9449518 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0424_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0425_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 34.3927 s. Speed: 8172324 objects/min. (4684466 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0425_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0426_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 58.9814 s. Speed: 8340929 objects/min. (8199328 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0426_clarkOut.csv
+CLARK version 1.2.2-b (UCR CS&E. Copyright 2013-2015 Rachid Ounit, rouni001@cs.ucr.edu) 
+Loading database [/tmp/570384.1.standard.q/soft/clark_virulence_db/db_files/db_central_k21_t2172_s1610612741_m0.tsk.*] ...
+Loading done (database size: 1613 MB)
+Mode: Full,	Processing file: /tmp/570384.1.standard.q/work/AW0427_pairs_R1.fastq_ConcatenatedByCLARK.fa,	 using 16 CPU.
+ - Assignment time: 29.1015 s. Speed: 8940348 objects/min. (4336290 objects).
+ - Results stored in /tmp/570384.1.standard.q/out/AW0427_clarkOut.csv
+Zipping files started at Thu Jun 16 14:20:55 EDT 2016.
+
+
+Finished zipping files at Thu Jun 16 14:23:40 EDT 2016.
+
+Syncing files back to zeno.
+
+sending incremental file list
+AE0003_clarkOut.csv.gz
+AE0013_clarkOut.csv.gz
+AE0023_clarkOut.csv.gz
+AE0053_clarkOut.csv.gz
+AE0103_clarkOut.csv.gz
+AE0113_clarkOut.csv.gz
+AE0133_clarkOut.csv.gz
+AE0233_clarkOut.csv.gz
+AS1343_clarkOut.csv.gz
+AS1383_clarkOut.csv.gz
+AS1393_clarkOut.csv.gz
+AS1403_clarkOut.csv.gz
+AS1413_clarkOut.csv.gz
+AS1423_clarkOut.csv.gz
+AS1433_clarkOut.csv.gz
+AS1456_clarkOut.csv.gz
+AS1463_clarkOut.csv.gz
+AS1473_clarkOut.csv.gz
+AS1483_clarkOut.csv.gz
+AS1484_clarkOut.csv.gz
+AS1485_clarkOut.csv.gz
+AS1487_clarkOut.csv.gz
+AS1492_clarkOut.csv.gz
+AS1493_clarkOut.csv.gz
+AS1496_clarkOut.csv.gz
+AS1502_clarkOut.csv.gz
+AS1503_clarkOut.csv.gz
+AS1504_clarkOut.csv.gz
+AS1509_clarkOut.csv.gz
+AS1510_clarkOut.csv.gz
+AS1513_clarkOut.csv.gz
+AS1517_clarkOut.csv.gz
+AS1518_clarkOut.csv.gz
+AS1519_clarkOut.csv.gz
+AS1954_clarkOut.csv.gz
+AS1955_clarkOut.csv.gz
+AS1956_clarkOut.csv.gz
+AS1957_clarkOut.csv.gz
+AS1958_clarkOut.csv.gz
+AS1963_clarkOut.csv.gz
+AS1965_clarkOut.csv.gz
+AS1966_clarkOut.csv.gz
+AS1967_clarkOut.csv.gz
+AS1969_clarkOut.csv.gz
+AW0253_clarkOut.csv.gz
+AW0254_clarkOut.csv.gz
+AW0258_clarkOut.csv.gz
+AW0262_clarkOut.csv.gz
+AW0263_clarkOut.csv.gz
+AW0264_clarkOut.csv.gz
+AW0265_clarkOut.csv.gz
+AW0267_clarkOut.csv.gz
+AW0268_clarkOut.csv.gz
+AW0269_clarkOut.csv.gz
+AW0273_clarkOut.csv.gz
+AW0277_clarkOut.csv.gz
+AW0283_clarkOut.csv.gz
+AW0293_clarkOut.csv.gz
+AW0301_clarkOut.csv.gz
+AW0302_clarkOut.csv.gz
+AW0303_clarkOut.csv.gz
+AW0306_clarkOut.csv.gz
+AW0307_clarkOut.csv.gz
+AW0308_clarkOut.csv.gz
+AW0313_clarkOut.csv.gz
+AW0323_clarkOut.csv.gz
+AW0333_clarkOut.csv.gz
+AW0343_clarkOut.csv.gz
+AW0353_clarkOut.csv.gz
+AW0363_clarkOut.csv.gz
+AW0371_clarkOut.csv.gz
+AW0372_clarkOut.csv.gz
+AW0373_clarkOut.csv.gz
+AW0375_clarkOut.csv.gz
+AW0377_clarkOut.csv.gz
+AW0378_clarkOut.csv.gz
+AW0383_clarkOut.csv.gz
+AW0401_clarkOut.csv.gz
+AW0402_clarkOut.csv.gz
+AW0404_clarkOut.csv.gz
+AW0405_clarkOut.csv.gz
+AW0406_clarkOut.csv.gz
+AW0407_clarkOut.csv.gz
+AW0408_clarkOut.csv.gz
+AW0409_clarkOut.csv.gz
+AW0411_clarkOut.csv.gz
+AW0412_clarkOut.csv.gz
+AW0413_clarkOut.csv.gz
+AW0414_clarkOut.csv.gz
+AW0415_clarkOut.csv.gz
+AW0416_clarkOut.csv.gz
+AW0417_clarkOut.csv.gz
+AW0418_clarkOut.csv.gz
+AW0419_clarkOut.csv.gz
+AW0421_clarkOut.csv.gz
+AW0422_clarkOut.csv.gz
+AW0424_clarkOut.csv.gz
+AW0425_clarkOut.csv.gz
+AW0426_clarkOut.csv.gz
+AW0427_clarkOut.csv.gz
+
+sent 4925412343 bytes  received 1912 bytes  229089035.12 bytes/sec
+total size is 4924804173  speedup is 1.00
+
+Finished running clark01.sh at Thu Jun 16 14:24:01 EDT 2016.

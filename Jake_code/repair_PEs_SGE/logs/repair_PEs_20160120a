@@ -1,0 +1,149 @@
+
+repair_PEs_d.sh started on ambulance samples at Wed Jan 20 23:37:41 EST 2016.
+Syncing from:  
+To: /tmp/522798.1.standard.q/working
+
+sending incremental file list
+AE0003_pair01.fastq.out.clean.gz
+AE0003_pair02.fastq.out.clean.gz
+AE0013_pair01.fastq.out.clean.gz
+AE0013_pair02.fastq.out.clean.gz
+AE0023_pair01.fastq.out.clean.gz
+AE0023_pair02.fastq.out.clean.gz
+AE0053_pair01.fastq.out.clean.gz
+AE0053_pair02.fastq.out.clean.gz
+AE0103_pair01.fastq.out.clean.gz
+AE0103_pair02.fastq.out.clean.gz
+
+sent 3853061567 bytes  received 202 bytes  179212175.30 bytes/sec
+total size is 3852590485  speedup is 1.00
+sending incremental file list
+parallel
+
+sent 291704 bytes  received 31 bytes  583470.00 bytes/sec
+total size is 291579  speedup is 1.00
+sending incremental file list
+fastqCombinePairedEnd.py
+
+sent 4356 bytes  received 31 bytes  8774.00 bytes/sec
+total size is 4247  speedup is 0.97
+
+Started to gunzip files at Wed Jan 20 23:38:02 EST 2016.
+
+95.85user 12.53system 0:33.75elapsed 321%CPU (0avgtext+0avgdata 51120maxresident)k
+768inputs+30101520outputs (6major+34647minor)pagefaults 0swaps
+mv: cannot stat `AE0003_pair01.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0003_pair02.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0013_pair01.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0013_pair02.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0023_pair01.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0023_pair02.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0053_pair01.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0053_pair02.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0103_pair01.fastq.out.clean': No such file or directory
+mv: cannot stat `AE0103_pair02.fastq.out.clean': No such file or directory
+AE0003_pair01.fastq
+AE0013_pair01.fastq
+AE0023_pair01.fastq
+AE0053_pair01.fastq
+AE0103_pair01.fastq
+AE0003_pair02.fastq
+AE0013_pair02.fastq
+AE0023_pair02.fastq
+AE0053_pair02.fastq
+AE0103_pair02.fastq
+
+real	5m7.188s
+user	11m26.502s
+sys	0m25.324s
+mv: cannot stat `AE0003_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0003_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0003_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0003_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0003_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0003_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0013_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0013_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0013_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0013_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0013_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0023_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0023_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0023_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0023_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0023_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0053_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0053_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0053_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0053_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0053_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0103_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0103_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0103_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01._singles.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01.fastq_pairs_R1.fastq': No such file or directory
+mv: cannot stat `AE0103_pair02.fastq_pairs_R2.fastq': No such file or directory
+mv: cannot stat `AE0103_pair01._singles.fastq': No such file or directory
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+/bin/bash: 4: command not found
+sending incremental file list
+AE0003_pairs_R1.fastq
+AE0003_pairs_R2.fastq
+AE0013_pairs_R1.fastq
+AE0013_pairs_R2.fastq
+AE0023_pairs_R1.fastq
+AE0023_pairs_R2.fastq
+AE0053_pairs_R1.fastq
+AE0053_pairs_R2.fastq
+AE0103_pairs_R1.fastq
+AE0103_pairs_R2.fastq
+
+sent 14816124735 bytes  received 202 bytes  219498147.21 bytes/sec
+total size is 14814315680  speedup is 1.00
+
+Finished repair_PEs_d.sh at Wed Jan 20 23:44:51 EST 2016.
